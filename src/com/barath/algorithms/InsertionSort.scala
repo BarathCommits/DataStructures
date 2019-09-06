@@ -1,5 +1,7 @@
 package com.barath.algorithms
-
+/*
+Insertion Sort
+ */
 object InsertionSort {
 
   def main(args: Array[String]): Unit = {
